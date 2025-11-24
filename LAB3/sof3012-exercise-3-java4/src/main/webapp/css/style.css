@@ -1,0 +1,23 @@
+/* src/main/webapp/css/style.css */
+
+body {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #f8f9fa; /* Màu nền xám nhạt */
+}
+
+/* Căn giữa tiêu đề và thêm khoảng cách */
+h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #343a40; /* Màu chữ tối */
+}
+
+/* Giới hạn chiều rộng của container chính */
+.container {
+    max-width: 960px;
+    background-color: #ffffff; /* Nền trắng cho nội dung */
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
